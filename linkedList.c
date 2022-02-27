@@ -107,17 +107,3 @@ int main(){
 	printf("length = %d\n",length);
 	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
